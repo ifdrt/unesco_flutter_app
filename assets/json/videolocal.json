@@ -1,0 +1,62 @@
+{
+    "video_local":[{
+        "id":"sd",
+         "taskId":"",
+   "seriesId":"r",
+    "videoId" :"r",
+    "title" :"r",
+   "progress" :3,
+    "videoUrl" :"",
+   "duration" :5,
+    "imUrl" :"",
+  
+   "seasonNumb" :5,
+   "epsoidNumb" :5,
+   "complete" :0,
+    "path" :"",
+    "subtitlePath" :"",
+    "subtitleUrl" :"",
+    "subtitleTaskId" :"",
+
+    "pathofAndroid" :"",
+   "status" :1,
+
+
+
+
+    "subtitle": {
+        "id": "006dc780-0ea0-11ea-9d86-fd885c511397",
+        "name": "https://cdn.shashety.com:9191/cinema/subtitles/subtitle_5dcfd63fc4b36.vtt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20210630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210630T064006Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b334665974c89f4367450f9cc43ba65db9b7ac17a6ce7864cb7791b8e8146b78",
+        "language": "ARABIC",
+        "movie_id": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+        "episode_id": null,
+        "created_at": "2019-11-24 09:51:35",
+        "updated_at": "2019-11-24 09:51:35"
+    },
+ 
+    "continu" :4,
+  
+    "desc" :"",
+    "type" :"",
+  
+    "video_data": {
+        "v_id": "7236d4a0-0e9f-11ea-9a6b-9d471c76dcec",
+        "movie_id": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+        "episode_id": null,
+        "resolution": "720",
+        "duration": null,
+        "video_url": "https://cdn.shabakaty.com/mp420-480/014A0F7A-BAF9-0726-B804-0A0FDB55A57D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=RNA4592845GSJIHHTO9T&Expires=1627285782&Signature=s81QQjluMonsq%2FUbBUfdx%2FNI7bk%3D",
+        "video_cloud": "aws",
+        "video_format": "mp4",
+        "created_at": "2019-11-24 09:47:36",
+        "updated_at": "2019-11-24 09:47:36"
+    }
+
+         
+        
+        
+    }]
+    
+    
+    
+}

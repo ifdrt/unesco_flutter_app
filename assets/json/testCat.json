@@ -1,0 +1,335 @@
+[
+    {
+        "id": 9,
+        "name": "مارفل || Marvel",
+        "kind": "movie",
+        "image": "/storage/categories/8P4ZOrF58wHMqLuHjMk0.jpg",
+        "active": 1,
+        "created_at": "2019-11-12 12:10:52",
+        "updated_at": "2021-05-24 09:29:07"
+    },
+    {
+        "id": 10,
+        "name": "خيال علمي",
+        "kind": "movie",
+        "image": "/storage/categories/pQuLtBwx7DuuIx3YpFVe.jpg",
+        "active": 1,
+        "created_at": "2019-11-12 14:37:18",
+        "updated_at": "2020-02-23 13:43:41"
+    },
+    {
+        "id": 11,
+        "name": "دراما",
+        "kind": "series",
+        "image": "/storage/categories/laLCW7zqrGeA4qiAail8.jpg",
+        "active": 1,
+        "created_at": "2019-11-12 17:49:56",
+        "updated_at": "2020-02-23 13:43:40"
+    },
+    {
+        "id": 12,
+        "name": "ابل",
+        "kind": "series",
+        "image": "/storage/categories/8ZrBIItyiFqOP4Im528O.jpg",
+        "active": 1,
+        "created_at": "2019-11-12 17:55:17",
+        "updated_at": "2020-02-23 13:43:39"
+    },
+    {
+        "id": 13,
+        "name": "وثائقي",
+        "kind": "series",
+        "image": "/storage/categories/1ngfJV4XDlQKYq07S1vY.jpg",
+        "active": 1,
+        "created_at": "2019-11-13 21:12:05",
+        "updated_at": "2020-02-23 13:43:36"
+    },
+    {
+        "id": 14,
+        "name": "اثارة",
+        "kind": "movie",
+        "image": "/storage/categories/PUMTq4g7J5odjVeMvsES.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 06:27:48",
+        "updated_at": "2020-02-23 13:43:38"
+    },
+    {
+        "id": 15,
+        "name": "كوميديا",
+        "kind": "movie",
+        "image": "/storage/categories/gtpYOppMmj6HbQCKHOzr.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 06:38:04",
+        "updated_at": "2020-02-23 13:43:35"
+    },
+    {
+        "id": 16,
+        "name": "دراما",
+        "kind": "movie",
+        "image": "/storage/categories/qE2qU9PVOmxCt7SwenT4.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 06:41:47",
+        "updated_at": "2020-02-23 13:43:35"
+    },
+    {
+        "id": 17,
+        "name": "ديزني",
+        "kind": "movie",
+        "image": "/storage/categories/eJLuxq8zHqjE3VFgjLKB.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 06:52:21",
+        "updated_at": "2020-02-23 13:43:34"
+    },
+    {
+        "id": 18,
+        "name": "عربي",
+        "kind": "movie",
+        "image": "/storage/categories/PDq6LWBk7TO0rTJGVcLU.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 07:15:53",
+        "updated_at": "2020-02-23 13:43:33"
+    },
+    {
+        "id": 19,
+        "name": "رعب",
+        "kind": "movie",
+        "image": "/storage/categories/cbvx0mOd0MhQziBBTarg.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 07:34:48",
+        "updated_at": "2020-02-23 13:43:32"
+    },
+    {
+        "id": 20,
+        "name": "خيال علمي",
+        "kind": "series",
+        "image": "/storage/categories/XUvXacrVYhSUsDAvvUry.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 10:46:22",
+        "updated_at": "2020-02-23 13:43:31"
+    },
+    {
+        "id": 21,
+        "name": "نتفلكس",
+        "kind": "series",
+        "image": "/storage/categories/PM3IgWGVfX05ZK7vkJAv.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 12:14:56",
+        "updated_at": "2020-02-23 13:43:31"
+    },
+    {
+        "id": 22,
+        "name": "كوميديا",
+        "kind": "series",
+        "image": "/storage/categories/hezOX3idtzqTEXuA4sLM.jpg",
+        "active": 1,
+        "created_at": "2019-11-14 14:27:20",
+        "updated_at": "2020-02-23 13:43:29"
+    },
+    {
+        "id": 23,
+        "name": "رسوم متحركة",
+        "kind": "series",
+        "image": "/storage/categories/rQcffejQHfXic0kNrzrp.jpg",
+        "active": 1,
+        "created_at": "2019-11-15 17:28:44",
+        "updated_at": "2020-02-23 13:43:29"
+    },
+    {
+        "id": 24,
+        "name": "رسوم متحركة",
+        "kind": "movie",
+        "image": "/storage/categories/2da29ClSTFHJjpixheo4.jpg",
+        "active": 1,
+        "created_at": "2019-11-16 06:52:14",
+        "updated_at": "2020-02-23 13:43:28"
+    },
+    {
+        "id": 25,
+        "name": "جريمة",
+        "kind": "movie",
+        "image": "/storage/categories/ZYuuk8wDgzE3aZ0ZkjSG.jpg",
+        "active": 1,
+        "created_at": "2019-11-16 06:59:05",
+        "updated_at": "2020-02-23 13:43:27"
+    },
+    {
+        "id": 26,
+        "name": "Fast & Furious",
+        "kind": "movie",
+        "image": "/storage/categories/WjONTekcurdvjXBBrAVi.jpg",
+        "active": 1,
+        "created_at": "2019-11-17 06:28:12",
+        "updated_at": "2020-02-23 13:43:26"
+    },
+    {
+        "id": 28,
+        "name": "HBO",
+        "kind": "series",
+        "image": "/storage/categories/KKBbLHmFPgV4GjQi3cQh.jpg",
+        "active": 1,
+        "created_at": "2019-11-18 13:08:31",
+        "updated_at": "2020-02-23 13:43:25"
+    },
+    {
+        "id": 30,
+        "name": "تركي",
+        "kind": "movie",
+        "image": "/storage/categories/eiAzvaE8bSA5jVPgLSjk.jpg",
+        "active": 1,
+        "created_at": "2019-11-24 08:06:42",
+        "updated_at": "2020-02-23 13:43:24"
+    },
+    {
+        "id": 31,
+        "name": "الافلام المميزة",
+        "kind": "movie",
+        "image": "/storage/categories/j8KWiaC4OTjUNOmAu7JJ.jpg",
+        "active": 1,
+        "created_at": "2019-11-24 09:28:40",
+        "updated_at": "2020-02-23 13:43:22"
+    },
+    {
+        "id": 32,
+        "name": "المسلسلات المميزة",
+        "kind": "series",
+        "image": "/storage/categories/xAaLU3Qu7Xf3SE3HBWpm.jpg",
+        "active": 1,
+        "created_at": "2019-11-24 09:29:00",
+        "updated_at": "2020-02-23 13:43:21"
+    },
+    {
+        "id": 33,
+        "name": "سلسلة افلام حروب النجوم",
+        "kind": "movie",
+        "image": "/storage/categories/MPpMcUkQTYAaJla59psi.jpg",
+        "active": 1,
+        "created_at": "2019-11-24 10:26:31",
+        "updated_at": "2020-02-23 13:43:21"
+    },
+    {
+        "id": 34,
+        "name": "افضل افلام دانيال دي لويس",
+        "kind": "movie",
+        "image": "/storage/categories/tpfKSBdURLs5JSqAOsuS.jpg",
+        "active": 1,
+        "created_at": "2019-11-25 06:11:13",
+        "updated_at": "2020-02-23 13:43:19"
+    },
+    {
+        "id": 35,
+        "name": "افضل افلام جاكي جان",
+        "kind": "movie",
+        "image": "/storage/categories/QWNwqQYtLA5438SLIJFK.jpg",
+        "active": 1,
+        "created_at": "2019-11-25 06:34:49",
+        "updated_at": "2020-02-23 13:43:18"
+    },
+    {
+        "id": 36,
+        "name": "احدث الافلام",
+        "kind": "movie",
+        "image": "/storage/categories/aqLzoKBiQYMNjSSCmqXo.jpg",
+        "active": 1,
+        "created_at": "2019-11-25 12:08:36",
+        "updated_at": "2020-02-23 13:43:18"
+    },
+    {
+        "id": 37,
+        "name": "أحدث المسلسلات",
+        "kind": "series",
+        "image": "/storage/categories/oSfUNbS22lfnDiZpI48Y.jpg",
+        "active": 1,
+        "created_at": "2019-11-25 12:09:07",
+        "updated_at": "2020-02-23 13:43:16"
+    },
+    {
+        "id": 38,
+        "name": "اكشن",
+        "kind": "movie",
+        "image": "/storage/categories/R7vNf19wGDZrFWRlSiyi.jpg",
+        "active": 1,
+        "created_at": "2019-11-30 08:17:25",
+        "updated_at": "2020-02-23 13:43:16"
+    },
+    {
+        "id": 39,
+        "name": "بوليوود",
+        "kind": "series",
+        "image": "/storage/categories/4TSi3xWUNj343j9PluU9.jpg",
+        "active": 1,
+        "created_at": "2019-12-10 13:50:27",
+        "updated_at": "2020-02-23 13:43:15"
+    },
+    {
+        "id": 40,
+        "name": "اسيوي",
+        "kind": "series",
+        "image": "/storage/categories/PcTZJIzqWqEvnC1sFifH.jpg",
+        "active": 1,
+        "created_at": "2019-12-18 20:58:36",
+        "updated_at": "2020-02-23 13:43:15"
+    },
+    {
+        "id": 41,
+        "name": "مسرحيات عربية",
+        "kind": "movie",
+        "image": "/storage/categories/r3weWHoWjpCyPUmHzQXb.jpg",
+        "active": 1,
+        "created_at": "2019-12-23 06:32:48",
+        "updated_at": "2020-02-23 13:43:14"
+    },
+    {
+        "id": 42,
+        "name": "بوليوود",
+        "kind": "movie",
+        "image": "/storage/categories/H2m4sQ9tbYOpNNduvcbD.jpg",
+        "active": 1,
+        "created_at": "2019-12-25 05:44:14",
+        "updated_at": "2020-02-23 13:43:13"
+    },
+    {
+        "id": 43,
+        "name": "عربي",
+        "kind": "series",
+        "image": "/storage/categories/H6xZN0EzJn7wKucAItEm.jpg",
+        "active": 1,
+        "created_at": "2020-01-08 07:44:37",
+        "updated_at": "2020-02-26 08:08:32"
+    },
+    {
+        "id": 44,
+        "name": "مسلسلات رمضان 2020",
+        "kind": "series",
+        "image": "/storage/categories/dV0alnclrrCxAmFtodqe.jpg",
+        "active": 1,
+        "created_at": "2020-04-09 15:50:38",
+        "updated_at": "2021-04-12 06:45:22"
+    },
+    {
+        "id": 46,
+        "name": "الافلام الاسيوية",
+        "kind": "movie",
+        "image": "/storage/categories/aqVpTPV55R2g3Sq9oWGY.jpg",
+        "active": 1,
+        "created_at": "2020-08-10 08:23:45",
+        "updated_at": "2020-08-10 09:08:38"
+    },
+    {
+        "id": 47,
+        "name": "افلام مدبلجة للعربية",
+        "kind": "movie",
+        "image": "/storage/categories/eoq6Srk97R1vga3p1OTB.jpg",
+        "active": 1,
+        "created_at": "2020-12-19 07:26:10",
+        "updated_at": "2020-12-19 10:02:17"
+    },
+    {
+        "id": 48,
+        "name": "رمضان 2021",
+        "kind": "series",
+        "image": "/storage/categories/HT7ePI5uNMaDWIEAfOn4.jpg",
+        "active": 1,
+        "created_at": "2021-04-12 06:39:56",
+        "updated_at": "2021-04-12 06:45:54"
+    }
+]

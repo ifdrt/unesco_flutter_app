@@ -1,0 +1,2353 @@
+{
+    "channels": [
+        {
+            "id": 1,
+            "name": "beIN Sports HD 1",
+            "url": "http://10.254.253.6:6001/sport/ch1/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 1/IcFhqXtGFSRzlurjcXj1HymrXYaP9FlksjzMmIFy.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:11:27",
+            "updated_at": "2020-02-19 11:30:50",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 2,
+            "name": "beIN Movies HD 2",
+            "url": "http://10.254.253.6:6001/sport/ch2/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 2/TrtyHk4gAC5ryvOI4aFCquKrkmOFFv2X9kw5429A.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:24:06",
+            "updated_at": "2020-02-18 10:24:06",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 3,
+            "name": "beIN Movies HD 3",
+            "url": "http://10.254.253.6:6001/sport/ch3/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 3/jR8MCtlo47S9aJ2OnGzHU3yHUNRbYrHk2THK7vFt.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:24:42",
+            "updated_at": "2020-02-18 10:24:42",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 4,
+            "name": "beIN Movies HD 4",
+            "url": "http://10.254.253.6:6001/sport/ch4/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 4/DvGydz9UTmzH0O2yz0TjwQKloLzm8HmWvoUaaE6m.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:25:14",
+            "updated_at": "2020-02-18 10:25:14",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 5,
+            "name": "beIN Movies HD 5",
+            "url": "http://10.254.253.6:6001/sport/ch5/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 5/mZTtg495cAu2LJQPbNxPDmuwDxqHNDGFx2AuNAG3.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:26:19",
+            "updated_at": "2020-02-18 10:26:19",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 6,
+            "name": "beIN Movies HD 6",
+            "url": "http://10.254.253.6:6001/sport/ch6/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 6/nHxyFcOECO7vnZCQxeydEv7bM9I5EM293U7ldfZc.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:27:25",
+            "updated_at": "2020-02-18 10:27:25",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 7,
+            "name": "beIN Movies HD 7",
+            "url": "http://10.254.253.6:6001/sport/ch7/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 7/yQkHBIj6rdBvpoQ8zzHlQEsJL5lGsqDIy3tvewK2.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:27:58",
+            "updated_at": "2020-02-18 10:27:58",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 8,
+            "name": "beIN Movies HD 8",
+            "url": "http://10.254.253.6:6001/sport/ch8/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 8/gmPfVyaAsE5TfWbajltLngwmiUINaCJuALtFSKBf.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:29:36",
+            "updated_at": "2020-02-18 10:29:36",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 9,
+            "name": "beIN Movies HD 9",
+            "url": "http://10.254.253.6:6001/sport/ch9/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 9/pBa7ChdXvVMsLeBXEESadYWT7ieF9Rh2WgfPRyFq.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:30:36",
+            "updated_at": "2020-02-18 10:30:36",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 10,
+            "name": "beIN Movies HD 10",
+            "url": "http://10.254.253.6:6001/sport/ch10/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport 10/axHfOKE2I0cEoBdj9Zxz9gsgGCBUQyQKdA6HtEpT.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:31:21",
+            "updated_at": "2020-02-18 10:35:55",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 11,
+            "name": "beIN Movies HD NPA",
+            "url": "http://10.254.253.6:6001/sport/ch11/adaptive.m3u8",
+            "image": "/storage/images/beIN Sport NBA/wsyqGQqFBGPWYpSk7TKTeAR4pbhhaqOwA13EaQaE.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:36:27",
+            "updated_at": "2020-02-18 10:36:27",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 12,
+            "name": "Aliraqia Sport",
+            "url": "http://10.254.253.6:6001/sport/ch12/adaptive.m3u8",
+            "image": "/storage/images/iraq s/OtPPAKhhpjj2q0k8UbgELgwa2Nqa5o9R25AdSo9a.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:41:03",
+            "updated_at": "2020-02-18 10:41:03",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 13,
+            "name": "Alkass One HD",
+            "url": "http://10.254.253.6:6001/sport/ch13/adaptive.m3u8",
+            "image": "/storage/images/Alkass One HD/hCOaMtpAjv5DCCiT7rLANwY2TdkGoCDB8wz91pz7.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:42:58",
+            "updated_at": "2020-02-18 10:42:58",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 14,
+            "name": "Alkass Two HD",
+            "url": "http://10.254.253.6:6001/sport/ch14/adaptive.m3u8",
+            "image": "/storage/images/Alkass Two HD/eZXGzfhHPGu2cqmE8BciQnSROjw8hIAkdIlr4iLC.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:44:16",
+            "updated_at": "2020-02-18 10:44:16",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 15,
+            "name": "Alkass Four HD",
+            "url": "http://10.254.253.6:6001/sport/ch16/adaptive.m3u8",
+            "image": "/storage/images/alkass4/Mo1G8yCFg0WCuKV4gCTGQFCbxxbALJy8emDOBM8p.jpeg",
+            "category_id": 1,
+            "enabled": 1,
+            "created_at": "2020-02-18 10:51:18",
+            "updated_at": "2020-02-18 10:51:18",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            },
+            "category": {
+                "id": 1,
+                "name": "Sport",
+                "name_ar": "رياضة",
+                "created_at": "2020-02-18 10:05:58",
+                "updated_at": "2020-02-18 10:05:58"
+            }
+        },
+        {
+            "id": 16,
+            "name": "beIN Movie HD 1",
+            "url": "http://10.254.253.6:6001/movies/ch4/adaptive.m3u8",
+            "image": "/storage/images/00/8v4THYqojn7jpBatjbAVEg0QBud1CMflwJxqvZJM.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:02:02",
+            "updated_at": "2020-02-19 08:59:14",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 17,
+            "name": "beIN Movies HD 2",
+            "url": "http://10.254.253.6:6001/movies/ch2/adaptive.m3u8",
+            "image": "/storage/images/beIN Movies HD 2/uC9nJVogVLLudaZvWxdcSVQsJAk3pTKWfOSWTq1O.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:03:30",
+            "updated_at": "2020-02-18 11:03:30",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 18,
+            "name": "beIN Movies HD 3",
+            "url": "http://10.254.253.6:6001/movies/ch3/adaptive.m3u8",
+            "image": "/storage/images/beIN Movies HD 3/ZVGvLnRH1BVIxEn5IsQQi28YYI8Bus1Nf5ZtyVOY.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:04:33",
+            "updated_at": "2020-02-18 11:04:33",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 19,
+            "name": "beIN Movie HD 4",
+            "url": "http://10.254.253.6:6001/movies/ch4/adaptive.m3u8",
+            "image": "/storage/images/beIN Movies HD 4/GfNcsPGhdzAaIoy8xO4je6dFpZv3Mkv1zdhjdSzA.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:40:14",
+            "updated_at": "2020-02-18 11:40:14",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 20,
+            "name": "Fox Movies",
+            "url": "http://10.254.253.6:6001/movies/ch5/adaptive.m3u8",
+            "image": "/storage/images/Fox Movies/blArUzXeR7SmmkbFJFjUNqYvAsTZExvtWtLDFmZl.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:41:28",
+            "updated_at": "2020-02-18 11:41:28",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 21,
+            "name": "Fox Action Movies",
+            "url": "http://10.254.253.6:6001/movies/ch6/adaptive.m3u8",
+            "image": "/storage/images/fox movi/PztOBFkFkQd1Gfu6YTpSkMfWLNlLMUhL0kleB88P.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:47:25",
+            "updated_at": "2020-02-18 11:47:25",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 22,
+            "name": "Fox Movies Family",
+            "url": "http://10.254.253.6:6001/movies/ch7/adaptive.m3u8",
+            "image": "/storage/images/Fox Movies Family/lJXY27GJWotB6dgz0biJeW5ikquZHv6KV5iTF1aS.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:48:51",
+            "updated_at": "2020-02-18 11:48:51",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 23,
+            "name": "Fox Movies HD",
+            "url": "http://10.254.253.6:6001/movies/ch9/adaptive.m3u8",
+            "image": "/storage/images/FOX HD/ZMvQlN9TI3p3qc4dPrOZ5lNzG19nD5kDMegRKM95.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:50:53",
+            "updated_at": "2020-02-18 11:50:53",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 24,
+            "name": "Star World HD",
+            "url": "http://10.254.253.6:6001/movies/ch10/adaptive.m3u8",
+            "image": "/storage/images/Star World HD/EUATzF4gJt885TwTd54C32Jy6QI00PT6dhjNTRbu.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 11:52:02",
+            "updated_at": "2020-02-18 11:52:02",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 25,
+            "name": "Star Movies HD",
+            "url": "http://10.254.253.6:6001/movies/ch11/adaptive.m3u8",
+            "image": "/storage/images/fox movi hd/0uATKBSoKhkcvglthiApNeVOwPte7EpS4yXe16Za.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:14:00",
+            "updated_at": "2020-02-18 12:14:00",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 26,
+            "name": "Fox Crime",
+            "url": "http://10.254.253.6:6001/movies/ch12/adaptive.m3u8",
+            "image": "/storage/images/fox crime/H170023W5rR2r8Mlx2wdg8As8vK6q3uUcnLUD5k6.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:15:17",
+            "updated_at": "2020-02-19 07:26:28",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 27,
+            "name": "OSN Movies",
+            "url": "http://10.254.253.6:6001/movies/ch13/adaptive.m3u8",
+            "image": "/storage/images/OSN Movies/AOpmr9qJNkXB8CkGOhzfzbZitClitIL1AFuSSwB5.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:16:45",
+            "updated_at": "2020-02-18 12:16:45",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 28,
+            "name": "OSN Action",
+            "url": "http://10.254.253.6:6001/movies/ch14/adaptive.m3u8",
+            "image": "/storage/images/OSN Action/2dOiat5McUgmeD5p9qda6Hlxwys4icdeTQjEbd2x.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:17:39",
+            "updated_at": "2020-02-18 12:17:39",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 29,
+            "name": "OSN Movies First",
+            "url": "http://10.254.253.6:6001/movies/ch15/adaptive.m3u8",
+            "image": "/storage/images/OSN Movies First/LsGfPN8WsO29wxKgzrKIbAmh0hd8Udrn5kE6GGZG.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:18:55",
+            "updated_at": "2020-02-18 12:18:55",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 30,
+            "name": "OSN Enigma",
+            "url": "http://10.254.253.6:6001/movies/ch24/adaptive.m3u8",
+            "image": "/storage/images/OSN Enigma/81euLJVmz0fkwTY9ORDTtlC878E3IaaQIpu6YhmF.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:23:45",
+            "updated_at": "2020-02-18 12:23:45",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 31,
+            "name": "Al Nwares",
+            "url": "http://10.254.253.6:6001/movies/ch21/adaptive.m3u8",
+            "image": "/storage/images/nwars/tMBQ01WORpkmNYdjBVst63G7oWy3zpVsMMzoVadI.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:29:57",
+            "updated_at": "2020-02-18 12:29:57",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 32,
+            "name": "Cinema 1",
+            "url": "http://10.254.253.6:6001/movies/ch16/adaptive.m3u8",
+            "image": "/storage/images/3333 (3)/6aOVXp7lEIzs0hem3UBrvs3Nx78fpPGsU8P3zSpP.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:33:24",
+            "updated_at": "2020-02-19 06:45:58",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 33,
+            "name": "Cinema 2",
+            "url": "http://10.254.253.6:6001/movies/ch17/adaptive.m3u8",
+            "image": "/storage/images/Cinema 2/29KFmlWLh8Wd9I6gd9XZ1vzg3uwElHMxXmLoFRNv.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:34:15",
+            "updated_at": "2020-02-19 06:46:36",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 34,
+            "name": "OSN Yahlla Cinema",
+            "url": "http://10.254.253.6:6001/movies/ch18/adaptive.m3u8",
+            "image": "/storage/images/OSN Yahlla Cinema/sEVo3hGQnUtUadwpklagfYTF8sfViFQrgvgJFnFV.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:36:19",
+            "updated_at": "2020-02-18 12:36:19",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 35,
+            "name": "ART Movies 1",
+            "url": "http://10.254.253.6:6001/movies/ch22/adaptive.m3u8",
+            "image": "/storage/images/aaaa/ahhy5vFDLiWTrimz3L97DDjY2Ash0mKKwIkrbrN2.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:39:39",
+            "updated_at": "2020-02-19 06:49:17",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 36,
+            "name": "ART Movies 2",
+            "url": "http://10.254.253.6:6001/movies/ch23/adaptive.m3u8",
+            "image": "/storage/images/ART Movies 2/OPgkwEowNLkTtVneWQIquzjZQYwEuxxTWKKC2tsW.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:40:04",
+            "updated_at": "2020-02-18 12:40:04",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 37,
+            "name": "ON Arabic HD",
+            "url": "http://10.254.253.6:6001/movies/ch23/adaptive.m3u8",
+            "image": "/storage/images/ش/nW4ZDie73kcQyYL95a7DDy6rxR4dpuVw9h1N0kC6.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:50:07",
+            "updated_at": "2020-02-19 07:35:26",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 38,
+            "name": "ON Box Office HD",
+            "url": "http://10.254.253.6:6001/movies/ch26/adaptive.m3u8",
+            "image": "/storage/images/on arab box (2)/KRfrzpdBqspryj3Jp4s9t9qfZI1q82kMjoTyRbei.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-18 12:56:49",
+            "updated_at": "2020-02-18 12:56:49",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 39,
+            "name": "ON Dimond",
+            "url": "http://10.254.253.6:6001/movies/ch20/adaptive.m3u8",
+            "image": "/storage/images/3/D9L8pDFki4vIFB1QxCuB9a5qfe222ApbiGrVVtJC.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-19 07:22:11",
+            "updated_at": "2020-02-19 07:22:11",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 40,
+            "name": "ON Comedy",
+            "url": "http://10.254.253.6:6001/movies/ch28/adaptive.m3u8",
+            "image": "/storage/images/2/dOq8OsISaI5kTzhtYrDXearOjDfjNotVHssQX411.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-19 07:22:51",
+            "updated_at": "2020-02-19 07:22:51",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 41,
+            "name": "ON Bollywood",
+            "url": "http://10.254.253.6:6001/movies/ch27/adaptive.m3u8",
+            "image": "/storage/images/1/tA4IyZ6QOn1eFEgP9IxHskqDdCrynlRstEHggDK1.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-19 07:23:47",
+            "updated_at": "2020-02-19 07:23:47",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 42,
+            "name": "TCM HD",
+            "url": "http://10.254.253.6:6001/movies/ch8/adaptive.m3u8",
+            "image": "/storage/images/TCM HD/W4CjmumezlSlYzBFXit1Smgp3woVu2ZkgaipLQcI.jpeg",
+            "category_id": 2,
+            "enabled": 1,
+            "created_at": "2020-02-19 07:31:22",
+            "updated_at": "2020-02-19 07:31:22",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            },
+            "category": {
+                "id": 2,
+                "name": "Movies",
+                "name_ar": "افلام",
+                "created_at": "2020-02-18 10:51:48",
+                "updated_at": "2020-02-18 10:51:48"
+            }
+        },
+        {
+            "id": 43,
+            "name": "CBS Reality",
+            "url": "http://10.254.253.6:6001/enter/ch1/adaptive.m3u8",
+            "image": "/storage/images/cbs reality/ZVSVI3WbZaZncwUW47grkELC6btH2Y7fFnnGbCGT.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:12:03",
+            "updated_at": "2020-02-19 08:12:03",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 44,
+            "name": "D Life",
+            "url": "http://10.254.253.6:6001/enter/ch2/adaptive.m3u8",
+            "image": "/storage/images/d life/c2jxX6FpuwoYHythDNi59W4ZbDc5iEn81oUXuxn9.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:13:39",
+            "updated_at": "2020-02-19 08:13:39",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 45,
+            "name": "DTX",
+            "url": "http://10.254.253.6:6001/enter/ch3/adaptive.m3u8",
+            "image": "/storage/images/dtx/3lieWSP1QjD7F5hL5oN5sGrydf4QZtk7wGCSLenm.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:14:24",
+            "updated_at": "2020-02-19 08:14:24",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 46,
+            "name": "National Geographic",
+            "url": "http://10.254.253.6:6001/enter/ch4/adaptive.m3u8",
+            "image": "/storage/images/national geographic/KqYgZV3hfYQCrezb6fhG6CHbpOy7bumIIbQEMchX.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:15:35",
+            "updated_at": "2020-02-19 08:15:35",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 47,
+            "name": "Nat Geo Wild",
+            "url": "http://10.254.253.6:6001/enter/ch5/adaptive.m3u8",
+            "image": "/storage/images/nat geo wild/H7qqJbJ6yTH1B2k22Zzo4UhSnCAG5EQdLKeHYh8v.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:17:55",
+            "updated_at": "2020-02-19 08:17:55",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 48,
+            "name": "Animal Planet",
+            "url": "http://10.254.253.6:6001/enter/ch6/adaptive.m3u8",
+            "image": "/storage/images/animal planet/ltJ7qCQCh3C4embfi13vzvmQBJPmlZNGSMrQefAF.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:19:42",
+            "updated_at": "2020-02-19 08:19:42",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 49,
+            "name": "beIN Gourmet HD",
+            "url": "http://10.254.253.6:6001/enter/ch7/adaptive.m3u8",
+            "image": "/storage/images/bein gourmet/Sx2uqCAG32giA1BquQiDx0IRgesoPgyd3DvVrBOo.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:21:10",
+            "updated_at": "2020-02-19 08:21:10",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 50,
+            "name": "Fatafeat HD",
+            "url": "http://10.254.253.6:6001/enter/ch8/adaptive.m3u8",
+            "image": "/storage/images/fatafeat/5kWP3ragVDn86ryXZai6oXg6ao9MyBaf5sjlQzbb.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:22:01",
+            "updated_at": "2020-02-19 08:22:01",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 51,
+            "name": "Food Network",
+            "url": "http://10.254.253.6:6001/enter/ch13/adaptive.m3u8",
+            "image": "/storage/images/food network/VadmsDmnHw7w8gnJSSc85Dg7vSdcsEPZc0OUaKDw.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:25:43",
+            "updated_at": "2020-02-19 08:25:43",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 52,
+            "name": "DMAX",
+            "url": "http://10.254.253.6:6001/enter/ch9/adaptive.m3u8",
+            "image": "/storage/images/dmax/U1Hj9nJv4YSM3XMdt7I12zCK7mELmcMTMtw5wIA4.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:26:15",
+            "updated_at": "2020-02-19 08:26:15",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 53,
+            "name": "Outdoor",
+            "url": "http://10.254.253.6:6001/enter/ch10/adaptive.m3u8",
+            "image": "/storage/images/outdoor/wJRVOyZMVvJyYIHHkci1LUMiJG57gPXas5o0Yp6V.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:26:42",
+            "updated_at": "2020-02-19 08:26:42",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 54,
+            "name": "HG TV",
+            "url": "http://10.254.253.6:6001/enter/ch12/adaptive.m3u8",
+            "image": "/storage/images/HG TV/SFX43adszy7vZ6GTfP0ELS0xgZBAWVktyvTD4udi.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:27:31",
+            "updated_at": "2020-02-19 08:27:31",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 55,
+            "name": "Discovery",
+            "url": "http://10.254.253.6:6001/enter/ch19/adaptive.m3u8",
+            "image": "/storage/images/Discovery/w4WskEm9TURkwGMzdsHN4jcFBsf3TaQXj9TGtxwP.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 08:34:39",
+            "updated_at": "2020-02-19 08:34:39",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 56,
+            "name": "Travel",
+            "url": "http://10.254.253.6:6001/enter/ch11/adaptive.m3u8",
+            "image": "/storage/images/travel/O06Ktb9CKH77JhtW24P7EJnJQ3b1t7pdVu5W8QuX.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:44:52",
+            "updated_at": "2020-02-19 09:44:52",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 57,
+            "name": "Fine Living",
+            "url": "http://10.254.253.6:6001/enter/ch14/adaptive.m3u8",
+            "image": "/storage/images/fine living/2knWX5b6V2TKB4Txe5NKwD7954OGAKMtRl7g00GS.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:46:42",
+            "updated_at": "2020-02-19 09:46:42",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 58,
+            "name": "Fox life",
+            "url": "http://10.254.253.6:6001/enter/ch15/adaptive.m3u8",
+            "image": "/storage/images/foxlife/o58R5hr23w0qiHplLN9z0EdkmASF7Wm1aZ5jfmnq.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:47:31",
+            "updated_at": "2020-02-19 09:47:31",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 59,
+            "name": "Nat Geo People",
+            "url": "http://10.254.253.6:6001/enter/ch16/adaptive.m3u8",
+            "image": "/storage/images/nat people/VoShczgZHuDdZGiZVlITMx0DrNDWBHt8S0p2WEQc.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:48:17",
+            "updated_at": "2020-02-19 09:48:17",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 60,
+            "name": "MBC Iraq",
+            "url": "http://10.254.253.6:6001/enter/ch18/adaptive.m3u8",
+            "image": "/storage/images/mbc iraq/sw1JvyPiBmA5YjjkgC6OpMjpeT2mxyXnLpQa64nU.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:49:08",
+            "updated_at": "2020-02-19 09:49:08",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 61,
+            "name": "MBC Variety HD",
+            "url": "http://10.254.253.6:6001/enter/ch25/adaptive.m3u8",
+            "image": "/storage/images/mbc verut/Q7MiMOQ7O6J5526ODFtN7LGrpz6erTsBQorK2cC9.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:49:53",
+            "updated_at": "2020-02-19 09:49:53",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 62,
+            "name": "History 1",
+            "url": "http://10.254.253.6:6001/enter/ch20/adaptive.m3u8",
+            "image": "/storage/images/history 1/vbEwrJdUzOhTfSzfqyvdy2Fv1xHuQJrcdMHTr4jy.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:50:18",
+            "updated_at": "2020-02-19 09:50:18",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 63,
+            "name": "History 2",
+            "url": "http://10.254.253.6:6001/enter/ch29/adaptive.m3u8",
+            "image": "/storage/images/history 2/dDu9yro6x4fsq7n3pAroFNPq2Jlxc1CwKTINfumZ.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:50:36",
+            "updated_at": "2020-02-19 09:50:36",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 64,
+            "name": "TLC HD",
+            "url": "http://10.254.253.6:6001/enter/ch21/adaptive.m3u8",
+            "image": "/storage/images/tlc/T1yCmmfH4KMIcSG6coJgxfxnoHEBcNK1hCB74Uoq.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:51:01",
+            "updated_at": "2020-02-19 09:51:01",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 65,
+            "name": "E HD",
+            "url": "http://10.254.253.6:6001/enter/ch22/adaptive.m3u8",
+            "image": "/storage/images/e hd/1MUu5XfqYRwkQCcMMMYN0dlmObCNQKHHeTDMdG9f.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:51:28",
+            "updated_at": "2020-02-19 09:51:28",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 66,
+            "name": "Discovery Science",
+            "url": "http://10.254.253.6:6001/enter/ch24/adaptive.m3u8",
+            "image": "/storage/images/dic sini/F9CetVCp59M4cAlj12YVbnVRKXTHxfvS1oyJR78m.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:52:09",
+            "updated_at": "2020-02-19 09:52:09",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 67,
+            "name": "Comedy Central",
+            "url": "http://10.254.253.6:6001/enter/ch26/adaptive.m3u8",
+            "image": "/storage/images/comedy/4pancWzMBcq64DVyzfSJuJHYiFlfEJC5cEWiu7B2.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:52:38",
+            "updated_at": "2020-02-19 09:52:38",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 68,
+            "name": "BBC Earth",
+            "url": "http://10.254.253.6:6001/enter/ch30/adaptive.m3u8",
+            "image": "/storage/images/bbc reath/QhhJp2el2felmd2Jm8rpvLm7nEMtibBLPGNS06uu.jpeg",
+            "category_id": 3,
+            "enabled": 1,
+            "created_at": "2020-02-19 09:53:01",
+            "updated_at": "2020-02-19 09:53:01",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            },
+            "category": {
+                "id": 3,
+                "name": "Entertainment",
+                "name_ar": "ترفية",
+                "created_at": "2020-02-19 07:34:19",
+                "updated_at": "2020-02-19 07:34:19"
+            }
+        },
+        {
+            "id": 69,
+            "name": "beIN Serise HD 1",
+            "url": "http://10.254.253.6:6001/series/ch1/adaptive.m3u8",
+            "image": "/storage/images/qq/hwwSkpd0N9iX61YTydXMFCE3sYjkBOaaCiNekdGS.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:45:59",
+            "updated_at": "2020-02-19 11:05:35",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 70,
+            "name": "beIN Serise HD 2",
+            "url": "http://10.254.253.6:6001/series/ch2/adaptive.m3u8",
+            "image": "/storage/images/bein series hd 2/jOutaxEPNKRMEVlDUglBheYZCvKGwYxrxhhzjqNd.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:46:41",
+            "updated_at": "2020-02-19 10:46:41",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 71,
+            "name": "beIN Drama HD 1",
+            "url": "http://10.254.253.6:6001/series/ch3/adaptive.m3u8",
+            "image": "/storage/images/bein drama hd 1/XHNLwRLWhHqb55iLyZHnVkjfe9QoX0dT8XQT9OO4.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:47:01",
+            "updated_at": "2020-02-19 10:47:01",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 72,
+            "name": "FX HD",
+            "url": "http://10.254.253.6:6001/series/ch4/adaptive.m3u8",
+            "image": "/storage/images/fx/moGyU6Wbd2pBZ1l3nWaqrrROCaavZPMHWlA7lCb6.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:47:34",
+            "updated_at": "2020-02-19 10:47:34",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 73,
+            "name": "Fox Rwayat",
+            "url": "http://10.254.253.6:6001/series/ch5/adaptive.m3u8",
+            "image": "/storage/images/fox rwayaat/Obu9geQWNqBS1ILrrTKrXbyE7z3pm7GT7wGttGg4.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:48:44",
+            "updated_at": "2020-02-19 10:48:44",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 74,
+            "name": "SYFY HD",
+            "url": "http://10.254.253.6:6001/series/ch7/adaptive.m3u8",
+            "image": "/storage/images/syfy/0uamtFsysg7hxBcQvvQqUKb2VC20SJsKsr1TBIaS.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:49:27",
+            "updated_at": "2020-02-19 10:49:27",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 75,
+            "name": "OSN Yahlla",
+            "url": "http://10.254.253.6:6001/series/ch6/adaptive.m3u8",
+            "image": "/storage/images/osn yahlla/XozzjJOkKR4VWXmmkjEX3tSpW633mEUykk4tzt0U.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:50:19",
+            "updated_at": "2020-02-19 10:50:19",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 76,
+            "name": "MBC Drama + HD",
+            "url": "http://10.254.253.6:6001/series/ch8/adaptive.m3u8",
+            "image": "/storage/images/mbc drama plus/ayC8DZfw4iKrJJJgNmiqYbOEZNrAutNfR55RF90S.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:51:06",
+            "updated_at": "2020-02-19 10:51:06",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 77,
+            "name": "OSN First Series",
+            "url": "http://10.254.253.6:6001/series/ch9/adaptive.m3u8",
+            "image": "/storage/images/osn first series/kw4f9H4vIM6pbJO5qf1JNOqlzG2cUrzOKlWl3cVZ.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:51:51",
+            "updated_at": "2020-02-19 10:51:51",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 78,
+            "name": "OSN yahlla one",
+            "url": "http://10.254.253.6:6001/series/ch10/adaptive.m3u8",
+            "image": "/storage/images/osn yahlla one/L6oJCssun6huNu1D3eA3NXkt0dhCUoXhyhZeRBKM.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:52:15",
+            "updated_at": "2020-02-19 10:52:15",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 79,
+            "name": "ON Turky",
+            "url": "http://10.254.253.6:6001/series/ch11/adaptive.m3u8",
+            "image": "/storage/images/on turki/u5VswVlLs5bLFthOfvueE6HetAKGGMZO0KuFNHHc.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:52:37",
+            "updated_at": "2020-02-19 10:52:37",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 80,
+            "name": "ART",
+            "url": "http://10.254.253.6:6001/series/ch12/adaptive.m3u8",
+            "image": "/storage/images/art/nhS9UDJojEuCfYzeeF4CeSGvDnWqpJEXWcvAuG0f.jpeg",
+            "category_id": 4,
+            "enabled": 1,
+            "created_at": "2020-02-19 10:52:57",
+            "updated_at": "2020-02-19 10:52:57",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            },
+            "category": {
+                "id": 4,
+                "name": "TV Shows",
+                "name_ar": "مسلسلات",
+                "created_at": "2020-02-19 09:53:51",
+                "updated_at": "2020-02-19 09:53:51"
+            }
+        },
+        {
+            "id": 81,
+            "name": "Baraoom",
+            "url": "http://10.254.253.6:6001/kids/ch1/adaptive.m3u8",
+            "image": "/storage/images/braaom/98yxxbAcGyeDwbdVrx1nfCOCqDmJMIJ0zOVfApmG.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:09:45",
+            "updated_at": "2020-02-19 11:09:45",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        },
+        {
+            "id": 82,
+            "name": "Baby TV",
+            "url": "http://10.254.253.6:6001/kids/ch2/adaptive.m3u8",
+            "image": "/storage/images/baby tv/ETGC6ExFQfoO4vxgtOqod8357k9nbi5RZu7aeA0S.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:10:32",
+            "updated_at": "2020-02-19 11:10:32",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        },
+        {
+            "id": 83,
+            "name": "Boom Boom",
+            "url": "http://10.254.253.6:6001/kids/ch3/adaptive.m3u8",
+            "image": "/storage/images/boom/M9JhFs2WBeK6y9vNwg4h7GvsXw4AfidQZzLGBvfb.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:11:07",
+            "updated_at": "2020-02-19 11:11:07",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        },
+        {
+            "id": 84,
+            "name": "JIM JAM",
+            "url": "http://10.254.253.6:6001/kids/ch6/adaptive.m3u8",
+            "image": "/storage/images/jim jam/4nu48d6rN1y8CrNJf7zhnNR06srtVLwzpB6fwcjN.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:12:57",
+            "updated_at": "2020-02-19 11:12:57",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        },
+        {
+            "id": 85,
+            "name": "Be Junior",
+            "url": "http://10.254.253.6:6001/kids/ch7/adaptive.m3u8",
+            "image": "/storage/images/111/XMOzQtQtwnJu81aMRb4mj1BhTaAf1UuRBcHTLRe5.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:14:11",
+            "updated_at": "2020-02-19 11:14:11",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        },
+        {
+            "id": 86,
+            "name": "Nickelodeon",
+            "url": "http://10.254.253.6:6001/kids/ch10/adaptive.m3u8",
+            "image": "/storage/images/nik/ACgiyjysO3fyhCi9WMy3TWn2FAuaqA9UAZ7OYwZ1.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:15:51",
+            "updated_at": "2020-02-19 11:15:51",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        },
+        {
+            "id": 87,
+            "name": "CN Network",
+            "url": "http://10.254.253.6:6001/kids/ch4/adaptive.m3u8",
+            "image": "/storage/images/cn/G7ldgE8FNGaKH7BrdJSHAK2XyPWfzbVCFvJuD34n.jpeg",
+            "category_id": 5,
+            "enabled": 1,
+            "created_at": "2020-02-19 11:19:29",
+            "updated_at": "2020-02-19 11:19:29",
+            "channel_code": null,
+            "kids": 0,
+            "color": null,
+            "category_name": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            },
+            "category": {
+                "id": 5,
+                "name": "Kids",
+                "name_ar": "اطفال",
+                "created_at": "2020-02-19 11:09:21",
+                "updated_at": "2020-02-19 11:09:21"
+            }
+        }
+    ]
+}

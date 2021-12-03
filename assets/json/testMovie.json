@@ -1,0 +1,147 @@
+{
+    "m_id": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+    "m_name": "InsideMan",
+    "m_desc": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
+    "m_genre": "Action, Thriller",
+    "m_year": 2019,
+    "m_age": "PG-13",
+    "m_rate": 5.9,
+    "m_runtime": 106,
+    "m_youtube": "https://www.youtube.com/watch?v=tlg4BQqhn3I",
+    "m_cloud": "aws",
+    "m_poster": "https://i.natgeofe.com/n/c0e0a134-3e97-4b8f-9f7b-9d11f5e1bf02/comedy-wildlife-awards-squirel-stop.jpg",
+    "m_backdrop": "https://cdn.shashety.com:9191/cinema/backdrops/600_n6JWKAzE5DXNk6FxgD0y.jpg",
+    "m_category": 31,
+    "show": 1,
+    "created_at": "2019-11-24 09:46:48",
+    "updated_at": "2019-11-24 11:25:30",
+    "upload_by": null,
+    "admin_id": "2fd274e0-06ad-11ea-8162-5d2e1ecb2684",
+    "video": {
+        "v_id": "7236d4a0-0e9f-11ea-9a6b-9d471c76dcec",
+        "movie_id": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+        "episode_id": null,
+        "resolution": "720",
+        "duration": null,
+        "video_url": "https://cdn.shabakaty.com/mp420-480/014A0F7A-BAF9-0726-B804-0A0FDB55A57D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=RNA4592845GSJIHHTO9T&Expires=1627285782&Signature=s81QQjluMonsq%2FUbBUfdx%2FNI7bk%3D",
+        "video_cloud": "aws",
+        "video_format": "mp4",
+        "created_at": "2019-11-24 09:47:36",
+        "updated_at": "2019-11-24 09:47:36"
+    },
+    "subtitle": {
+        "id": "006dc780-0ea0-11ea-9d86-fd885c511397",
+        "name": "https://cdn.shashety.com:9191/cinema/subtitles/subtitle_5dcfd63fc4b36.vtt?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=minio%2F20210630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210630T064006Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=b334665974c89f4367450f9cc43ba65db9b7ac17a6ce7864cb7791b8e8146b78",
+        "language": "ARABIC",
+        "movie_id": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+        "episode_id": null,
+        "created_at": "2019-11-24 09:51:35",
+        "updated_at": "2019-11-24 09:51:35"
+    },
+    "casts": [
+        {
+            "c_id": 4579,
+            "credit_id": "5d3f5d6034e1520011e9d4ea",
+            "c_name": "Aml Ameen",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/uOLEg0j73BifjU1UGSVn.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:49",
+            "updated_at": "2019-11-24 09:46:49",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5d6034e1520011e9d4ea"
+            }
+        },
+        {
+            "c_id": 4580,
+            "credit_id": "5d3f5d6e60b58d00146b5636",
+            "c_name": "Rhea Seehorn",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/rUiEAxBRE5o0hV9ulpws.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:52",
+            "updated_at": "2019-11-24 09:46:52",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5d6e60b58d00146b5636"
+            }
+        },
+        {
+            "c_id": 4581,
+            "credit_id": "5d3f5d7e21621b0012f52853",
+            "c_name": "Roxanne McKee",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/juOl6TXtCWzHW4b2zh8S.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:52",
+            "updated_at": "2019-11-24 09:46:52",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5d7e21621b0012f52853"
+            }
+        },
+        {
+            "c_id": 4582,
+            "credit_id": "5d3f5daf21621b6b28ee74e4",
+            "c_name": "Tanya van Graan",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/St1ecjPW1DyKSwwFpjeb.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:53",
+            "updated_at": "2019-11-24 09:46:53",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5daf21621b6b28ee74e4"
+            }
+        },
+        {
+            "c_id": 4583,
+            "credit_id": "5d3f5dd1b87aec0a7539706a",
+            "c_name": "Jessica Sutton",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/Von3pGbxTB7mxP1wIcmR.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:53",
+            "updated_at": "2019-11-24 09:46:53",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5dd1b87aec0a7539706a"
+            }
+        },
+        {
+            "c_id": 4584,
+            "credit_id": "5d3f5dfc60b58d00136b54e1",
+            "c_name": "Greg Kriek",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/CyzOy7Fxm8GnctS7yXRy.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:53",
+            "updated_at": "2019-11-24 09:46:53",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5dfc60b58d00136b54e1"
+            }
+        },
+        {
+            "c_id": 4585,
+            "credit_id": "5d3f5e14b87aec082839f90c",
+            "c_name": "Sven Ruygrok",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/zXgF191JiUmnJDwG2pSb.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:54",
+            "updated_at": "2019-11-24 09:46:54",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5e14b87aec082839f90c"
+            }
+        },
+        {
+            "c_id": 4586,
+            "credit_id": "5d3f5e32b87aec0a75397223",
+            "c_name": "Akshay Kumar",
+            "c_image": "https://cdn.shashety.com:9191/cinema/casts/dthvlG1fPQMFrSbUmjBn.jpg",
+            "c_cloud": "aws",
+            "created_at": "2019-11-24 09:46:55",
+            "updated_at": "2019-11-24 09:46:55",
+            "pivot": {
+                "casts_movies": "55ab2b50-0e9f-11ea-b18a-d58f5805026a",
+                "casts_id": "5d3f5e32b87aec0a75397223"
+            }
+        }
+    ]
+}

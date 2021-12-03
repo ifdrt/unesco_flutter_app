@@ -1,0 +1,30 @@
+{
+    "status": true,
+    "data": {
+        "champion_title": "champions Lega",
+        "id": 1,
+        "home": "Arsenal",
+        "home_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+        "away": "Barcelona",
+        "away_logo": "https://upload.wikimedia.org/wikipedia/ar/f/f6/FC-Barcelona.png",
+        "time": "21:00",
+        "date": "2021-07-29",
+        "channel_id": 1,
+        "created_at": "null",
+        "updated_at": "null",
+        "channel": {
+            "id": 1,
+            "name": "Bein Sports HD1",
+            "image": "http://tv.shashety.com/storage/images/beIN%20Sport%201/IcFhqXtGFSRzlurjcXj1HymrXYaP9FlksjzMmIFy.jpeg",
+            "logo": "http://localhost:4200/assets/images/fox.png",
+            "auto": "http://10.254.253.6:6001/sport/ch1/adaptive.m3u8",
+            "360p": "null",
+            "480p": "null",
+            "720p": "null",
+            "1080p": "null",
+            "category_id": 1,
+            "created_at": "null",
+            "updated_at": "null"
+        }
+    }
+}

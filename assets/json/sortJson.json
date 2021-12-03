@@ -1,0 +1,46 @@
+{
+    "sort_data": [
+        {
+            "id": 1,
+            "name": "Year",
+            "sort_type": [
+                {
+                    "id": 1,
+                    "name": "Ascending order"
+                },
+                {
+                    "id": 2,
+                    "name": "descending order"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Watched",
+            "sort_type": [
+                {
+                    "id": 3,
+                    "name": "least watched"
+                },
+                {
+                    "id": 4,
+                    "name": "more watched"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Rating",
+            "sort_type": [
+                {
+                    "id": 5,
+                    "name": "least Rating"
+                },
+                {
+                    "id": 6,
+                    "name": "more Rating"
+                }
+            ]
+        }
+    ]
+}
